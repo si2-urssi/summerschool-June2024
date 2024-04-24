@@ -1,43 +1,40 @@
-# URSSI Winter School
+# URSSI Summer School 2024
 ---
 
 ## Discussion and notes
 
-[HackMD for notes/discussion](https://hackmd.io/@kyleniemeyer/SkoP3GmOT/edit)
+[HackMD for notes/discussion]()
 
 [Gitter chat room](https://matrix.to/#/#urssi-winterschool:gitter.im)
 
-[HackMD for sharing contact info](https://hackmd.io/Vm6H0Nc0Tq-DVbfRiVvXPg)
+[HackMD for sharing contact info]()
 
 --- 
 
-3-5 January 2024, Portland OR
+24-26 June 2024, Washington DC
 
-Welcome to the repository for the 2024 URSSI Winter School! All instruction will happen at the [Oregon State University Portland Center](https://www.google.com/maps/place/Oregon+State+University+-+Portland+Center/@45.5191668,-122.6806424,17z/data=!3m2!4b1!5s0x54950a04eb56b777:0xce0d6c2b65a905b5!4m6!3m5!1s0x54950b18857f5857:0x219823f05976c110!8m2!3d45.5191631!4d-122.6780675!16s%2Fg%2F11gsn2wn_c).
+Welcome to the repository for the 2024 URSSI Summer School! All instruction will happen at the [Oregon State University Portland Center](https://www.google.com/maps/place/Oregon+State+University+-+Portland+Center/@45.5191668,-122.6806424,17z/data=!3m2!4b1!5s0x54950a04eb56b777:0xce0d6c2b65a905b5!4m6!3m5!1s0x54950b18857f5857:0x219823f05976c110!8m2!3d45.5191631!4d-122.6780675!16s%2Fg%2F11gsn2wn_c).
 
-The front doors are located on the corner of 6th/Morrison (right next to The Nines Hotel). You will need to access the call box to ring security, show the guest pass to the little camera there, and security will buzz you in. Elevators will be unlocked for you and we are on the 2nd floor in room 2029.
-
-Please show the [guest pass](./Z5039%20--%20URSSI%20Software%20School.png) on your phone (or a printed copy) to the camera at the entrance.
 
 ## Tentative schedule
 
 | Time | Topic  | Resources  | Instructor
 |:--|:--|:--|:--|
-| 3rd, 1-2pm  | [Welcome and introductions](https://kyleniemeyer.github.io/research-software-dev-modules/intro-slides) |  | Kyle
-| 3rd, 2-5pm  | [Software design and modularity](https://evamaxfield.github.io/winter-school-lectures/software-design-and-modularity.slides.html#/),<br/>[Structuring Python packages](https://kyleniemeyer.github.io/research-software-dev-modules/module-packaging/) |  | Eva, Kyle
-| 4th, 9am-12pm | [Collaboration with Git/GitHub/Workflows](https://munkm.github.io/2024-winterschool/git-collaboration.slides.html), [Git Exercises](), work time |  | Madicken
-| 4th, 1-5pm  | [Testing and continuous integration, linting](https://evamaxfield.github.io/winter-school-lectures/testing-lint-ci.slides.html#/) [repo](https://github.com/evamaxfield/winter-school-lectures), work time |  | Eva
-| 5th, 9am-12pm | [Peer code review](https://munkm.github.io/2024-winterschool/peer-review.slides.html#/), [Remote Development on HPCs](https://jpmorgan98.github.io/urssi-remotedev-slides/hpc-dev.slides.html#/) work time | | Madicken, Joanna
-| 5th, 1-5pm | [Documentation and versioning](https://kyleniemeyer.github.io/research-software-dev-modules/module-documentation/), [Open science & software citation](https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/) |  | Kyle
-| 5th, 6:30 pm | Informal dinner @ [10 Barrel Brewing](https://maps.app.goo.gl/zgS8TCaBXFsekDEf7) |  |
+| 24th, 9-10am  | [Welcome and introductions](https://kyleniemeyer.github.io/research-software-dev-modules/intro-slides) |  | Kyle
+| 24th, 10am-12pm | [Software design and modularity](https://evamaxfield.github.io/winter-school-lectures/software-design-and-modularity.slides.html#/) | Eva | 
+| 24th, 1-5pm  | [Structuring Python packages](https://kyleniemeyer.github.io/research-software-dev-modules/module-packaging/), work time |  | David
+| 25th, 9am-12pm | [Collaboration with Git/GitHub/Workflows](https://munkm.github.io/2024-winterschool/git-collaboration.slides.html), [Git Exercises](), work time |  | Madicken
+| 25th, 1-5pm  | [Testing and continuous integration, linting](https://evamaxfield.github.io/winter-school-lectures/testing-lint-ci.slides.html#/) [repo](https://github.com/evamaxfield/winter-school-lectures), work time |  | Eva
+| 26th, 9am-12pm | [Peer code review](https://munkm.github.io/2024-winterschool/peer-review.slides.html#/), work time | | Madicken
+| 26th, 1-5pm | [Documentation and versioning](https://kyleniemeyer.github.io/research-software-dev-modules/module-documentation/), [Open science & software citation](https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/) |  | Kyle
 
-Each morning and afternoon session will be split up with a break, and we'll have lunch organized on-site on both the 4th and 5th.
+Each morning and afternoon session will be split up with a break, and we'll have lunch organized on-site on all days.
 
 ## Code of Conduct
 
-We have adopted a [code of conduct](https://github.com/si2-urssi/winterschool/blob/master/CODE_OF_CONDUCT.md) for the URSSI Winter School and all associated spaces, both physical and digital. Please review this.
+We have adopted a [code of conduct](https://github.com/si2-urssi/winterschool/blob/master/CODE_OF_CONDUCT.md) for the URSSI Summer School and all associated spaces, both physical and digital. Please review this.
 
-Also, the URSSI Winter School is a scent-free environment. We would like to ask the participants to refrain from using any scented lotions, perfumes, essential oils, scented antiperspirants, etc., as these make the space inaccessible for folks with asthma, allergies to the scents, or with Multiple Chemical Sensitivity. Having a scent-free environment will help prevent dizziness, nausea, breathing difficulties, headaches, and other issues among our participants.
+Also, the URSSI Summer School is a scent-free environment. We would like to ask the participants to refrain from using any scented lotions, perfumes, essential oils, scented antiperspirants, etc., as these make the space inaccessible for folks with asthma, allergies to the scents, or with Multiple Chemical Sensitivity. Having a scent-free environment will help prevent dizziness, nausea, breathing difficulties, headaches, and other issues among our participants.
 
 ## Instructors
 
@@ -49,9 +46,7 @@ Also, the URSSI Winter School is a scent-free environment. We would like to ask 
 
 ## Teaching Assistants
 
-[Joanna Morgan](https://github.com/jpmorgan98)
-
-[Cassidy Wagner](https://github.com/cassidymwagner)
+TBD
 
 
 ## Requirements
