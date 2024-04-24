@@ -13,7 +13,7 @@
 
 24-26 June 2024, Washington DC
 
-Welcome to the repository for the 2024 URSSI Summer School! All instruction will happen at the [Oregon State University Portland Center](https://www.google.com/maps/place/Oregon+State+University+-+Portland+Center/@45.5191668,-122.6806424,17z/data=!3m2!4b1!5s0x54950a04eb56b777:0xce0d6c2b65a905b5!4m6!3m5!1s0x54950b18857f5857:0x219823f05976c110!8m2!3d45.5191631!4d-122.6780675!16s%2Fg%2F11gsn2wn_c).
+Welcome to the repository for the 2024 URSSI Summer School! All instruction will happen in the [Geoerge Washington University Science and Engineering Hall](https://engineering.gwu.edu/science-and-engineering-hall) (SEH), room B1270.
 
 
 ## Tentative schedule
