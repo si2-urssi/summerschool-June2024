@@ -13,7 +13,7 @@
 
 24-26 June 2024, Washington DC
 
-Welcome to the repository for the 2024 URSSI Summer School! All instruction will happen in the [Geoerge Washington University Science and Engineering Hall](https://engineering.gwu.edu/science-and-engineering-hall) (SEH), room B1270.
+Welcome to the repository for the 2024 URSSI Summer School! All instruction will happen in the [George Washington University Science and Engineering Hall](https://engineering.gwu.edu/science-and-engineering-hall) (SEH), room B1270.
 
 
 ## Tentative schedule
