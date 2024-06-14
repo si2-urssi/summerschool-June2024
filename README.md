@@ -25,6 +25,7 @@ Welcome to the repository for the 2024 URSSI Summer School! All instruction will
 | 24th, 1-5pm  | [Structuring Python packages](https://kyleniemeyer.github.io/research-software-dev-modules/module-packaging/), work time |  | David
 | 25th, 9am-12pm | [Collaboration with Git/GitHub/Workflows](https://munkm.github.io/2024-winterschool/git-collaboration.slides.html), [Git Exercises](), work time |  | Madicken
 | 25th, 1-5pm  | [Testing and continuous integration, linting](https://evamaxfield.github.io/winter-school-lectures/testing-lint-ci.slides.html#/) [repo](https://github.com/evamaxfield/winter-school-lectures), work time |  | Eva
+| 25th, 6:00 pm | Dinner at Tonic at Quigley's Pharmacy | |
 | 26th, 9am-12pm | [Peer code review](https://munkm.github.io/2024-winterschool/peer-review.slides.html#/), work time | | Madicken
 | 26th, 1-5pm | [Documentation and versioning](https://kyleniemeyer.github.io/research-software-dev-modules/module-documentation/), [Open science & software citation](https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/) |  | Kyle
 
