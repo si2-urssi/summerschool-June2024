@@ -5,9 +5,7 @@
 
 [HackMD for notes/discussion]()
 
-[Gitter chat room](https://matrix.to/#/#urssi-winterschool:gitter.im)
-
-[HackMD for sharing contact info]()
+[Gitter chat room](https://matrix.to/#/#urssi-summerschool2024:gitter.im)
 
 --- 
 
