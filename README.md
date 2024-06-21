@@ -3,7 +3,7 @@
 
 ## Discussion and notes
 
-[HackMD for notes/discussion]()
+[HackMD for notes/discussion](https://hackmd.io/@kyleniemeyer/rkyebVQ8A/edit)
 
 [Gitter chat room](https://matrix.to/#/#urssi-summerschool2024:gitter.im)
 
@@ -34,7 +34,7 @@ Each morning and afternoon session will be split up with a break, and we'll have
 
 ## Code of Conduct
 
-We have adopted a [code of conduct](https://github.com/si2-urssi/winterschool/blob/master/CODE_OF_CONDUCT.md) for the URSSI Summer School and all associated spaces, both physical and digital. Please review this.
+We have adopted a [code of conduct](https://github.com/si2-urssi/summerschool-June2024/blob/main/CODE_OF_CONDUCT.md) for the URSSI Summer School and all associated spaces, both physical and digital. Please review this.
 
 Also, the URSSI Summer School is a scent-free environment. We would like to ask the participants to refrain from using any scented lotions, perfumes, essential oils, scented antiperspirants, etc., as these make the space inaccessible for folks with asthma, allergies to the scents, or with Multiple Chemical Sensitivity. Having a scent-free environment will help prevent dizziness, nausea, breathing difficulties, headaches, and other issues among our participants.
 
@@ -46,10 +46,16 @@ Also, the URSSI Summer School is a scent-free environment. We would like to ask 
 
 [Madicken Munk](https://github.com/munkm)
 
-## Teaching Assistants
+[David Nicholson](https://nicholdav.info)
 
-TBD
+## Teaching assistants / aids
 
+- [Pete Lawson](https://dataservices.library.jhu.edu/initiatives/pete-lawson/)
+- [Dan Kerchner](https://library.gwu.edu/users/dan-kerchner)
+- [Emily Blumenthal](https://library.gwu.edu/users/emily-blumenthal-phd)
+- [Michael Rossetti](https://library.gwu.edu/users/michael-rossetti)
+- [Robin Delaloye](https://library.gwu.edu/users/robin-delaloye)
+- [Emmanuel Teitelbaum](https://elliott.gwu.edu/emmanuel-teitelbaum)
 
 ## Requirements
 
