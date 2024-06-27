@@ -2,7 +2,7 @@
 
 Thanks to the Sloan Foundation grant that supports the URSSI Schools on Research Software Engineering, we can reimburse you for your travel expenses (excluding the hotel stay, which should have been directly billed to Oregon State).
 
-1. Everyone should have received an invitation to register as a vendor through OSU's BennyBuy system. You should register as an individual, add your SSN, and then upload a filled W-9 form (though you will not actually be taxed for the reimbursement). If you are asked for a job title / role, you can say "workshop participant". Please make sure you complete this ASAP!
+1. Everyone should have receive an invitation to register as a vendor through OSU's BennyBuy system. You should register as an individual, add your SSN, and then upload a filled W-9 form (though you will not actually be taxed for the reimbursement). If you are asked for a job title / role, you can say "workshop participant". Please make sure you complete this ASAP!
 2. Separately from the BennyBuy system, download and add your personal information and travel expenses to the ["NonOSU_TravelReimbursement-URSSI.pdf" form](./NonOSU_TravelReimbursement-URSSI.pdf), which has been pre-populated with some information. 
   - Add your personal info (leave "OSU ID#" blank)
   - In Travel Itinerary section, add your home city. Modify the dates you left and returned home if different.
